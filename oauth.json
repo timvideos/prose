@@ -2,5 +2,5 @@
   "api": "https://api.github.com",
   "site": "https://github.com",
   "clientId": "ef9ca6342c16dca284d0",
-  "gatekeeperUrl": "https://gatekeeper-timvideos.herokuapp.com"
+  "gatekeeperUrl": "https://gatekeeper.timvideos.us"
 }
